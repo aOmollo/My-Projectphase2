@@ -137,6 +137,6 @@ The final model accounts to 50.6% of the variance in price and it’s a good mod
 It is highly recommended that the audience focus on the attributes of 'sqft_living', 'bathrooms', 'sqft_above', 'sqft_living15’, and 'view’ when deciding on prices of houses. These variables are the key predictors of house prices in King County. The variables showed strong positive correlations suggesting that an improvement in the variables increases prices.    
 Model Selection. When choosing a model, it's important to balance complexity and performance. Depending on your objectives, you might opt for a simpler model with fewer features, especially if interpretability is a key priority.  
 **LIMITATIONS**    
-The choice of variables included in the models may not be exhaustive. There could be other important factors influencing house prices that are not considered in the current models. 
-**CONCLUSION**   
-House properties influence prices of houses. The model suggests 'sqft_living', 'bathrooms', 'sqft_above', 'sqft_living15’, and 'view’ influence prices of houses in the county. 
+The choice of variables included in the models may not be exhaustive. There could be other important factors influencing house prices that are not considered in the current models.    
+**CONCLUSION**      
+House properties influence prices of houses. The model suggests 'sqft_living', 'bathrooms', 'sqft_above', 'sqft_living15’, and 'view’ influence prices of houses in the county.   
